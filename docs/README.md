@@ -1,6 +1,6 @@
 # དྲ་རྒྱའི་ནང་སྒྲིག་སྟངས་ཀྱི་དཔེ་མཚོན།
 
-![image alt text](https://raw.githubusercontent.com/bdrc-reader/namdroling/master/docs/img/golden_temple.jpg)
+![image alt text](https://raw.githubusercontent.com/bdrc-reader/MenriLing/master/docs/img/menriling.jpg)
 
 <br>
 <br>
