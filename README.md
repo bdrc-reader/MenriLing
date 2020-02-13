@@ -1,3 +1,5 @@
+# [དཀར་ཆག](https://prose.io/#bdrc-reader/menriling/edit/master/karchak/W1ERI0007.tsv)
+
 # རྩོམ་སྒྲིག་བྱེད་སྟངས་ཀྱི་སློབ་ཚན།
 
 
