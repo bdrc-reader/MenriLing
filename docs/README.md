@@ -2,6 +2,8 @@
   <span>མདུན་ངོས།</span> • <a href="https://bdrc-reader.github.io/menriling/shadra">བཤད་གྲྭ</a> • <a href="https://bdrc-reader.github.io/menriling/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/menriling/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/menriling/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/menriling/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/menriling/natsok">སྣ་ཚོགས།</a></p>
 
 
+# [དཀར་ཆག](https://prose.io/#bdrc-reader/menriling/edit/master/karchak/W1ERI0007.tsv)
+
 # སྨན་རིའི་གླིང་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/menriling/master/docs/img/01.jpg)
